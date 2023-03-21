@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mohit Bisht!<br><br>🎓 I am a fresher in B.Tech CSE and a passionate open-source enthusiast. Currently, I am learning web development and exploring various tech stacks to broaden my knowledge and skills.<br><br> Skills I'm Learning:<br>Web development<br>JavaScript programming<br>Responsive web design<br>Front-end development frameworks<br><br>🚀 Interests:<br>🔍 Exploring new technologies and trends in the tech industry<br>💻 Contributing to open-source projects
+👋 Hi, I'm Mohit Bisht!<br><br>🎓 I am a fresher in B.Tech CSE and a passionate open-source enthusiast. Currently, I am learning web development and exploring various tech stacks to broaden my knowledge and skills.<br><br> Skills I'm Learning:<br>Web Development<br>JavaScript Programming<br>Responsive Web Design<br>Front-End Development Frameworks<br><br>🚀 Interests:<br>🔍 Exploring new technologies and trends in the tech industry<br>💻 Contributing to open-source projects
 
 
 ## 🌐 Socials:
