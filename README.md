@@ -5,11 +5,13 @@
 <h1 align="center" style="font-size: 32px; border-bottom: none;">Hi 👋, I'm Mohit Bisht</h1>
 <h3 align="center" style="font-size: 20px;">I'm a guy passionate about computer science, open-source projects, and exploring various tech stacks to broaden my knowledge and skills.</h3>
 
-<blockquote align="center" style="font-size: 20px;">"I love to design and build innovative solutions that make a positive impact."</blockquote>
+<blockquote align="center" style="font-size: 20px;">"I love to design and build innovative solutions that make a positive impact."</blockquote><br>
 
 - 🌱 I'm currently learning **Web Development, Software Engineering, Design, and Cloud Development**.
 - 📝 I enjoy learning new technologies and keeping up with the latest trends in the tech industry.
-- 🚀 I'm eager to contribute to open-source projects and collaborate with like-minded individuals.
+- 🎨 Love designing innovative solutions.
+- 🚀 Eager to contribute to open-source projects.
+- 🌟 Enthusiastic about collaborating with like-minded individuals.
 
 <br>
 
