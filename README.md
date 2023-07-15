@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=mohiit70&label=Profile%20views&color=0e75b6&style=flat" alt="mohiit70" />
 </p>
 
-<h1 align="center" style="font-size: 32px; border-bottom: none;">Hi there! 👋</h1>
+<h1 align="center" style="font-size: 32px; border-bottom: none;">Hi 👋, I'm Mohit Bisht</h1>
 <h3 align="center" style="font-size: 20px;">I'm a guy passionate about computer science, open-source projects, and exploring various tech stacks to broaden my knowledge and skills.</h3>
 
 <blockquote align="center" style="font-size: 20px;">"I love to design and build innovative solutions that make a positive impact."</blockquote>
