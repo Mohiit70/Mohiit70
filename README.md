@@ -17,12 +17,9 @@ I'm currently an undergraduate student majoring in computer science. I'm deeply 
 - **Databases**: MySQL
   
 
-### Latest Blog 📃
- - [My Journey into Tech](https://mohitbisht70.hashnode.dev/my-journey-into-tech)
- - [Burnout to Breakthrough](https://mohitbisht70.hashnode.dev/burnout-to-breakthrough-finding-my-passion-in-web-development-and-cloud-technologies)  
- - [Mastering CSS Flexbox](https://mohitbisht70.hashnode.dev/mastering-css-flexbox-resources-that-simplify-and-solidify-your-understanding)  
- - [GitHub Student Developer Pack](https://mohitbisht70.hashnode.dev/github-student-developer-pack)
- - [My First Open-Source Contribution](https://mohitbisht70.hashnode.dev/my-first-open-source-contribution-a-great-learning-experience)  
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END --> 
 
 
 ### Connect with me
