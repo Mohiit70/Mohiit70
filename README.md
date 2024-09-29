@@ -23,11 +23,11 @@
 
 ### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginner&#39;s Guide to Using LLaMA with Groq](https://mohitbisht70.hashnode.dev/beginners-guide-to-using-llama-with-groq)
 - [Supercharging Dev Social Media with AI Magic](https://mohitbisht70.hashnode.dev/supercharging-dev-social-media-with-ai-magic)
 - [Docker Explained: A Beginner&#39;s Guide](https://mohitbisht70.hashnode.dev/docker-explained-a-beginners-guide)
 - [My Journey into Tech 🚀](https://mohitbisht70.hashnode.dev/my-journey-into-tech)
 - [Burnout to Breakthrough Finding My Passion in Web Development and Cloud Technologies](https://mohitbisht70.hashnode.dev/burnout-to-breakthrough-finding-my-passion-in-web-development-and-cloud-technologies)
-- [Mastering CSS Flexbox: Resources That Simplify and Solidify Your Understanding](https://mohitbisht70.hashnode.dev/mastering-css-flexbox-resources-that-simplify-and-solidify-your-understanding)
 <!-- BLOG-POST-LIST:END --> 
 
 ### Connect with me
