@@ -32,6 +32,8 @@
 
 ### Connect with me
 
+💡 Always learning, always growing. Let's build something amazing together!
+
 <p align="center">
 <a href="https://www.linkedin.com/in/mohit-bisht-22ab5b256/" target="blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px"/> </a>
 <a href="mailto:mail.mohitbisht@gmail.com" target="blank"> <img src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width="80px" height="80px"/> </a>
