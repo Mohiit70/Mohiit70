@@ -1,56 +1,118 @@
-![Banner](banner.png)
+<p align="center">
+  <img src="images/banner.png" alt="Banner"/>
+</p>
 
-<h1 align="center"><em>Hi there, I'm Mohit Bisht </em><img src="https://user-images.githubusercontent.com/73777108/150582164-1a082835-3bad-4a81-b3c7-dad6e90c6e19.gif" width="50"></h1>
+# Hi there! 👋 I'm Mohit Bisht
 
-<h3 align="center">🎓 Student pursuing a Bachelor's in Computer Science. I am an enthusiastic learner and passionate about 💭 cloud and DevOps, as well as 🌐 Cloud-native and distributed systems.</h3>
-<br>
+I'm passionate about cloud-native technologies, distributed systems, and DevOps practices. Always building, learning, and trying new things in tech while pursuing my Computer Science degree. Currently exploring design, creating innovative solutions, and learning how to build things that make an impact.
 
-- 🚀 Learning **Golang** & Exploring the **Cloud-Native** and **Distributed Systems** Ecosystem
-- ✉️ Sharing my experiences on DevOps, Cloud, and Open Source through documentation.
-- ✍️ Also engaged in technical writing and design-related work for the community.
-- 🤝 Always open to collaborating.
-- 🔥 Actively participated in hackathons.
+### 🚀 Current Focus
+- Learning **Golang** & diving deep into **Cloud-Native** ecosystem
+- Documenting my DevOps and Cloud journey
+- Technical writing and community contributions
+- Exploring UI/UX design and creative development
+- Building practical solutions that solve real problems
+- Open for collaboration opportunities
+- Active hackathon participant
 
-### Skills
+### 🛠 Tech Stack
 
-- **Languages**: C, Python, C++, JavaScript, Golang, Java
-- **Libraries/Frameworks**: React, Vanilla CSS, Tailwind, Bootstrap, Flask
-- **Tools**: Kubernetes, GitHub Actions, Figma, Canva, Photoshop, Ansible, Docker
-- **DevOps**: CI/CD, Terraform, Jenkins
-- **Platforms**: AWS, Google Cloud Platform
-- **Databases**: MySQL, MongoDB
-- **Other**: Linux
+**Languages**
+- C, Python, C++, JavaScript, Golang, Java
 
-### 📚 Blog posts
+**Web Technologies**
+- React, Vanilla CSS, Tailwind, Bootstrap, Flask
+
+**DevOps & Cloud**
+- Docker, Kubernetes, GitHub Actions
+- Jenkins, Terraform, Ansible
+- AWS, Google Cloud Platform
+- CI/CD
+
+**Databases**
+- MySQL, MongoDB
+
+**Tools & Platforms**
+- Linux
+- Figma, Canva, Photoshop
+
+## My Latest Blog Posts 👈
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Guide to Using LLaMA with Groq](https://mohitbisht70.hashnode.dev/beginners-guide-to-using-llama-with-groq)
-- [Supercharging Dev Social Media with AI Magic](https://mohitbisht70.hashnode.dev/supercharging-dev-social-media-with-ai-magic)
-- [Docker Explained: A Beginner&#39;s Guide](https://mohitbisht70.hashnode.dev/docker-explained-a-beginners-guide)
-- [My Journey into Tech 🚀](https://mohitbisht70.hashnode.dev/my-journey-into-tech)
-- [Burnout to Breakthrough Finding My Passion in Web Development and Cloud Technologies](https://mohitbisht70.hashnode.dev/burnout-to-breakthrough-finding-my-passion-in-web-development-and-cloud-technologies)
-<!-- BLOG-POST-LIST:END --> 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <a href="https://mohitbisht70.hashnode.dev/beginners-guide-to-using-llama-with-groq">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1727605462357/34b4619a-0c4a-4f61-b417-aa10cb87e028.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px"/>
+  </a>
+  <div style="margin-left: 20px;">
+    <a href="https://mohitbisht70.hashnode.dev/beginners-guide-to-using-llama-with-groq" style="color: #0969da; text-decoration: none;">
+      <strong>Beginner's Guide to Using LLaMA with Groq</strong>
+    </a>
+    <p>Guide to using LLaMA models with Groq for efficient AI development. Learn implementation and best practices.</p>
+  </div>
+</div>
 
-### Connect with me
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <a href="https://mohitbisht70.hashnode.dev/supercharging-dev-social-media-with-ai-magic">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1721998263775/012e7840-d13d-4c7a-b8ee-8ceba3273fc1.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px"/>
+  </a>
+  <div style="margin-left: 20px;">
+    <a href="https://mohitbisht70.hashnode.dev/supercharging-dev-social-media-with-ai-magic" style="color: #0969da; text-decoration: none;">
+      <strong>Supercharging Dev Social Media with AI Magic</strong>
+    </a>
+    <p>Tips and strategies for leveraging AI to enhance your tech community presence.</p>
+  </div>
+</div>
 
-💡 Always learning, always growing. Let's build something amazing together!
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <a href="https://mohitbisht70.hashnode.dev/docker-explained-a-beginners-guide">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1715087189136/6bf5e0df-bbff-4cc4-b265-9800bdd38700.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px"/>
+  </a>
+  <div style="margin-left: 20px;">
+    <a href="https://mohitbisht70.hashnode.dev/docker-explained-a-beginners-guide" style="color: #0969da; text-decoration: none;">
+      <strong>Docker Explained: A Beginner's Guide</strong>
+    </a>
+    <p>Your first steps into containerization with Docker basics and essential commands.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <a href="https://mohitbisht70.hashnode.dev/my-journey-into-tech">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682568132090/5281b903-e159-4d89-96f0-df7692aad988.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px"/>
+  </a>
+  <div style="margin-left: 20px;">
+    <a href="https://mohitbisht70.hashnode.dev/my-journey-into-tech" style="color: #0969da; text-decoration: none;">
+      <strong>My Journey into Tech 🚀</strong>
+    </a>
+    <p>Personal story of growth and learning in the tech world.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <a href="https://mohitbisht70.hashnode.dev/burnout-to-breakthrough-finding-my-passion-in-web-development-and-cloud-technologies">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679827660127/4fbfddf3-fa65-4b64-9a7a-d6b01d26487a.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="250px"/>
+  </a>
+  <div style="margin-left: 20px;">
+    <a href="https://mohitbisht70.hashnode.dev/burnout-to-breakthrough-finding-my-passion-in-web-development-and-cloud-technologies" style="color: #0969da; text-decoration: none;">
+      <strong>Burnout to Breakthrough: Finding My Passion</strong>
+    </a>
+    <p>Journey from burnout to discovering passion in web development and cloud.</p>
+  </div>
+</div>
+
+### 📝 More Blog Posts
+<p align="center">
+<a href="https://mohitbisht70.hashnode.dev/">➡️ Check out more articles on my blog</a>
+</p>
+
+### 🤝 Let's Connect!
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mohit-bisht-22ab5b256/" target="blank"> <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" width="90px" height="110px"/> </a>
-<a href="mailto:mail.mohitbisht@gmail.com" target="blank"> <img src="https://media.giphy.com/media/j6waMWSdaXW5SYp0Id/giphy.gif" width="80px" height="80px"/> </a>
-<a href="https://twitter.com/MohitB_twt" target="blank"> <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif" width="90px" height="110px"/> </a>
-<br/>
-<a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/mohit-bisht-22ab5b256/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/MohitB_twt"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a> 
+<a href="https://twitter.com/MohitB_twt"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
+<a href="mailto:mail.mohitbisht@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCGfSz5yCufOfTXNZONUXNKg"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
+<a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" alt="Animated GIF">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohiit70&show_icons=true&locale=en&theme=dark" alt="mohiit70" height=300px width=350px>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohiit70&theme=dark" alt="mohiit70" height=300px width=400px>
 </p>
